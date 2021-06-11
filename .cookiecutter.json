@@ -1,0 +1,36 @@
+{
+    "_template": "/var/folders/3z/qpmfl8q908x43zcc0hm8p6380000gq/T/33e5b939-3e75-4309-8121-2879475c4283/template",
+    "access": "fp-mt",
+    "artifact_id": "java-kotlin-lib-test-ssVuu",
+    "component_id": "java-kotlin-lib-test-ssVuu",
+    "description": "This project was created from the template-java-kotlin-library template.",
+    "destination": {
+        "git": {
+            "filepath": "",
+            "filepathtype": "",
+            "full_name": "fp-mt-test-org/java-kotlin-lib-test-ssVuu",
+            "git_suffix": "False",
+            "hash": "",
+            "href": "https://github.com/fp-mt-test-org/java-kotlin-lib-test-ssVuu",
+            "name": "java-kotlin-lib-test-ssVuu",
+            "organization": "fp-mt-test-org",
+            "owner": "fp-mt-test-org",
+            "pathname": "/fp-mt-test-org/java-kotlin-lib-test-ssVuu",
+            "port": null,
+            "protocol": "https",
+            "protocols": [
+                "https"
+            ],
+            "query": {},
+            "ref": "",
+            "resource": "github.com",
+            "search": "",
+            "source": "github.com",
+            "token": "",
+            "user": ""
+        }
+    },
+    "java_package_name": "javakotlinlibtestssVuu",
+    "owner": "Product Infrastructure",
+    "storePath": "https://github.com/fp-mt-test-org/java-kotlin-lib-test-ssVuu"
+}
